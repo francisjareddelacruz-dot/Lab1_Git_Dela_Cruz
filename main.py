@@ -1,3 +1,4 @@
 print("Lab 1: Version Control")
 print("Author: [Fran-cis]")
 print("Student ID: TUPM-25-0552")
+print("Class Section: [BSECE-1A]")
